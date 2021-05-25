@@ -17,8 +17,8 @@
 
 **More Bonus** if you also include a breadth-first traversal (sometimes called a level-order search)
 
-   1. Analyze and compare the complexity of insert and search as compared to a binary tree without any order in its nodes.
+      1. Analyze and compare the complexity of insert and search as compared to a binary tree without any order in its nodes.
 
 
-# **Diagram:**
+## **Diagram:**
 ![Diagram](https://user-images.githubusercontent.com/59652655/119447567-f1c95100-bce4-11eb-8f50-c561e41e7c8b.png)
